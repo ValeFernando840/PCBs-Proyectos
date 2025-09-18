@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 2)
 			(scaleselection 1)
-			(outputdirectory "PDF/")
+			(outputdirectory "PDFs/")
 		)
 	)
 	(net 0 "")
@@ -2846,7 +2846,7 @@
 		(layer "Dwgs.User")
 		(uuid "422250c2-316d-4d7a-a603-5ec07d9ab215")
 		(pts
-			(xy 85 67) (xy 85 132.5)
+			(xy 85 66.5) (xy 85 133)
 		)
 		(height -13)
 		(orientation 1)
@@ -2867,7 +2867,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "65.5"
+		(gr_text "66.5"
 			(at 70.85 99.75 90)
 			(layer "Dwgs.User")
 			(uuid "422250c2-316d-4d7a-a603-5ec07d9ab215")

@@ -505,7 +505,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "PDF/",
+      "plot": "PDFs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
